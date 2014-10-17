@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I was able to see exactly which lines were changed so this caused me to pay close attention to
+exactly what was changed in the new version. Any new word stuck out to me and I was able
+to see a misspelling. Especially if the change was so small like just a new word or two had been changed
+it was easy to notice the misspell.
+
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+I think that being able to see the changes I have made throughout time would help me pinpoint
+areas that worked and areas that didn't. If there was a problem happening that I maybe had an
+idea where it was introduced in code, then I could look through the history and try to find the 
+change that I made and see if there was a mistake or I could implement it better with something
+new I learned.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you
+do in Git, vs having versions automatically saved, like Google docs does?
+
+The pros would be being able to choose when exactly you think it's the right time to commit
+like if it followed a logical point in time to commit. The cons would be that you can forget
+a lot of times to commit so you might have to commit a huge amount of code that doesn't really
+fit in a nice logical progression. And by that I mean that each commit should reflect reasonable small
+to medium changes and not big ones.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+
+Well a lot of times in programming, multiple files are tied to each other in a logical way. When
+adding something like a new feature, you may have to make changes to multiple files. This makes 
+sense to commit all the files changed as they fall into a logical change.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is used to see all the commits in the history which gives you a date, id, author, and comments. git diff 
+will allow you to view the actual changes to two specific commits and showing where in the files the 
+changes were made.
+
+How might using version control make you more confident to make changes that could break?
+
+By knowing that I can revert to a previous version without much trouble I would feel more confident
+in making changes. It was a little bit of work in finding where this bug was introduced but I think I
+can mitigate that risk in the future by making sure I'm descriptive in my commits of what I did.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to be able to save all of my projects on github with ease. I want to be able to use git like a pro.

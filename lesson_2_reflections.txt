@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The init builds the git files needed to save snapshots. You need to do it so new commits
+can be saved into these files.
+
+How is the staging area different from the working directory and the repository? What value do you think
+it offers?
+
+The staging area lets me pick which files will go into a commit. This way I can break up my commits
+however I want. If I think a group of files should go into one commit and another group go into
+another commit then I can do that.
