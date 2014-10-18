@@ -9,3 +9,10 @@ it offers?
 The staging area lets me pick which files will go into a commit. This way I can break up my commits
 however I want. If I think a group of files should go into one commit and another group go into
 another commit then I can do that.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can diff the working directory with staging area to see the changes made compared to
+the latest commit. I can then add the files I want to the staging area and diff the 
+staging area to the latest commit. This allows me to see and plan exactly which files
+I want to include in my next commit.
