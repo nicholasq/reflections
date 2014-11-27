@@ -16,3 +16,14 @@ I can diff the working directory with staging area to see the changes made compa
 the latest commit. I can then add the files I want to the staging area and diff the 
 staging area to the latest commit. This allows me to see and plan exactly which files
 I want to include in my next commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How
+would branches help?
+
+Having different branches would enable me to organize very specific changes to their own history
+(branch). This way I could add an experimental bug fix or experimental feature. I could also
+have different versions of my project.
+
+How do diagrams help you visualize the branch structure?
+
+I am able to see the root commit of each branch and how they relate to each other branch.
