@@ -27,3 +27,14 @@ have different versions of my project.
 How do diagrams help you visualize the branch structure?
 
 I am able to see the root commit of each branch and how they relate to each other branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram
+the way we do?
+
+The changes from the merged branch will be added to the 'primary' branch. It is represented 
+in the diagram in a way that shows commits only know about their parent commits.
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+The pros are much less work on you to have to go through a add or delete lines of code.
+The cons are that it may merge things in a way that you did not want or expect.
