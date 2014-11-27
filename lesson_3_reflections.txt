@@ -8,7 +8,8 @@ case you lose your local machine or lose the local data.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+There may be some things that you want to change before pulling from a remote
+repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
