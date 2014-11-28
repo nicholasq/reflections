@@ -28,7 +28,8 @@ remote branch.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+You could use a server to host your git repository if you wanted to collaborate
+privately and under your own terms. It would be easier to use GitHub because everything is already setup and working stable for your needs. The only disadvantage is having to pay for a private repository.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
