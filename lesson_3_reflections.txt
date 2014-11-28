@@ -34,4 +34,6 @@ privately and under your own terms. It would be easier to use GitHub because eve
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Making changes in a separate branch allows you to test features that mean need 
+be thoroughly reviewed before being added to the master branch. This allows you
+to fix bugs and test if they worked and also to add cool new experimental features.
