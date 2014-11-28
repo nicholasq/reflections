@@ -22,7 +22,8 @@ another commit. This can create multiple 'paths' or branches.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+It allows me to see any changes my local master branch has against my local
+remote branch.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
